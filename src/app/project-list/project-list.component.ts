@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
-import { CommonModule } from '@angular/common';
 
 interface Project {
   id: number;
@@ -12,7 +11,7 @@ interface Project {
 @Component({
   selector: 'app-project-list',
   standalone: true,
-  imports: [CommonModule, HttpClientModule],
+  imports: [HttpClientModule],
   templateUrl: './project-list.component.html',
   styleUrl: './project-list.component.css',
 })
