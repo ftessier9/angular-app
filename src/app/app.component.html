@@ -1,9 +1,23 @@
 <main>
-    <app-nav-bar></app-nav-bar>
-    <app-theme-toggle></app-theme-toggle>
-    <div style="margin: 10px">
-        <h1>My Project List</h1>
-        <app-project-list></app-project-list>
-    </div>
+
+    <main>
+        <mat-sidenav-container>
+            <mat-sidenav #sidenav>
+                <ul>
+                    <li><a href="#">Item 1</a></li>
+                    <li><a href="#">Item 2</a></li>
+                    <li><a href="#">Item 3</a></li>
+                    <app-theme-toggle></app-theme-toggle>
+                </ul>
+            </mat-sidenav>
+            <mat-sidenav-content>
+                <button (click)="openSideNav()">Open Side Nav</button>
+                <div style="margin: 10px">
+                    <h1>My Project List</h1>
+                    <app-project-list></app-project-list>
+                </div>
+            </mat-sidenav-content>
+        </mat-sidenav-container>
+    </main>
 
 </main>
