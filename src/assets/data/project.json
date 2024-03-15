@@ -1,0 +1,21 @@
+[
+    {
+      "id": 0,
+      "title": "Mobile App",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ornare elit et augue euismod lacinia ut sed turpis. Cras nibh orci, efficitur et vulputate ac, vehicula vitae ipsum. Sed et nibh quis augue dignissim dictum. Integer vel lacus neque. Praesent cursus sollicitudin nisl quis condimentum. Nulla pretium eros et enim dignissim pharetra. Ut eget pellentesque neque, at tristique neque. Proin eget aliquam sapien. In ullamcorper rutrum turpis in congue. Phasellus tempor magna ut turpis tincidunt, et rutrum mauris fringilla",
+      "techStack": ["React Native", "Express.js", "PSQL"]
+    },
+    {
+      "id": 1,
+      "title": "Website",
+      "description": "Ut quis vehicula lorem. Maecenas nisi orci, eleifend nec viverra lacinia, vestibulum eu nisl. Morbi sollicitudin, arcu eu lobortis dapibus, mi nisl ultricies velit, at elementum neque sem in enim. Vestibulum ornare ultrices mi, vel faucibus ante vehicula nec. Aliquam posuere orci tellus, ac dapibus felis pretium vitae. Integer mollis lacus et iaculis sodales. Curabitur dapibus vestibulum gravida. Aenean non eros sagittis, dictum magna sit amet, fermentum lectus. Aliquam eu eleifend quam. Ut fermentum felis in risus elementum, id congue sapien volutpat. Integer eleifend ut sem at venenatis. Praesent convallis elit turpis, non ultricies massa pulvinar ut. Phasellus gravida tempus vehicula. Nulla quis quam in risus bibendum lacinia sit amet at felis. Etiam non mi quis felis iaculis lacinia",
+      "techStack": ["Next.js"]
+    },
+    {
+      "id": 2,
+      "title": "Expense Tracker",
+      "description": "Vivamus sed augue convallis, venenatis lacus id, auctor tellus. Morbi et ullamcorper mi, ut cursus elit. Etiam in finibus odio. Praesent lacus ante, accumsan id odio sit amet, placerat blandit felis. Aliquam porttitor diam et sem ornare ultricies. Sed dignissim viverra eros id pretium. Nulla ut imperdiet tellus. Integer maximus dapibus pretium. Nulla non rhoncus dui. Curabitur rhoncus odio vel lacus scelerisque malesuada at in augue. In tincidunt elit ut est aliquet ornare. Vivamus odio risus, volutpat non gravida vitae, tempor sed sapien. Morbi pulvinar lacus sit amet faucibus pulvinar. Fusce posuere augue ut vehicula fermentum. Nunc massa leo, maximus id mi a, porttitor mollis ipsum. Aliquam tempor dolor eu massa mattis ultricies.",
+      "techStack": ["Python"]
+    }
+]
+  
